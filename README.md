@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonvandeventer
-- 👀 I’m interested in expanding my skillset and becoming a DevOps engineer.
-- 🌱 I’m currently learning DevOps skills
+- 👀 I’m interested in expanding my skillset as a DevOps engineer.
+- 🌱 I’m currently learning AWS skills
 - 📫 You can reach me on LinkedIn at linkedin.com/in/jasonvandeventer
 
 <!---
