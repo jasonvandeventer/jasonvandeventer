@@ -19,14 +19,14 @@ I specialize in automating infrastructure, securing deployments, and building sc
 ## ✅ Recent Highlights  
 
 - **AWS Certified Solutions Architect – Associate** (July 2025)  
-- Built a **fully automated AWS DevOps Capstone Project** with Terraform, Route 53 DNS, ACM HTTPS, CloudFront CDN, and CI/CD via GitHub Actions → [**Live Demo**](https://capstone.vanfreckle.com)  
+- Built a **fully automated AWS DevOps Capstone Project** with Terraform, Route 53 DNS, ACM HTTPS, CloudFront CDN, and CI/CD via GitHub Actions → [**Live Demo**](http://capstone.vanfreckle.com)  
 - Actively expanding skills with **Terraform Associate** and **Certified Kubernetes Administrator (CKA)**  
 
 ---
 
 ## 📂 Featured Projects  
 
-🔹 [**AWS DevOps Capstone**](https://capstone.vanfreckle.com) – Fully automated AWS infrastructure (VPC, EC2 Auto Scaling, ALB, S3 hosting, CloudFront CDN)  
+🔹 [**AWS DevOps Capstone**](http://capstone.vanfreckle.com) – Fully automated AWS infrastructure (VPC, EC2 Auto Scaling, ALB, S3 hosting, CloudFront CDN)  
 🔹 [**Terraform VPC Lab**](https://github.com/jasonvandeventer/terraform-vpc-lab) – Modular VPC with public/private subnets and security groups  
 🔹 [**Homelab Infrastructure**](https://github.com/jasonvandeventer/homelab-bootstrap) – Proxmox-based IaC project with Docker & Ansible automation  
 
